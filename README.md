@@ -6,3 +6,5 @@ PCA module for Python
 * normalize(X)
 * PCA.fit(X)
 * PCA.transform(X)
+
+See PCABenchmarking.ipynb for usage
